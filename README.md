@@ -15,6 +15,7 @@
 ### 🇨🇦 Sobre mi
 
 Sóc professor de **Cicles Formatius de Grau Superior** (ASIX i DAW) a l'**Institut Sa Palomera** (Blanes, Girona), on també imparteixo cursos d'especialització en **Big Data & IA**. 
+També soc professor de Bases de Dades i Enginyeria del Software a l'EPS de l'Universitat de Girona.
 ### 🇬🇧 About me
 
 I teach **Higher-Level Vocational Training** (ASIX & DAW) at **Institut Sa Palomera** (Blanes, Girona, Spain), along with specialization courses in **Big Data & AI**.
