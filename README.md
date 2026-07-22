@@ -64,7 +64,7 @@ I teach **Higher-Level Vocational Training** (ASIX & DAW) at **Institut Sa Palom
 
 <p align="center">
   <a href="https://francescbarragan.cat"><img src="https://img.shields.io/badge/-Web-2F81F7?style=for-the-badge&logo=safari&logoColor=white" /></a>
-  <a href="https://codeworks.es"><img src="https://img.shields.io/badge/-Codeworks-2F81F7?style=for-the-badge&logo=briefcase&logoColor=white" /></a>
+  <a href="https://asixsapa.cat"><img src="https://img.shields.io/badge/-Asixsapa-2F81F7?style=for-the-badge&logo=briefcase&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Institut Sa Palomera, Blanes (Girona) 🇪🇸</i></p>
