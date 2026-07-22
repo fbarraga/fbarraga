@@ -2,7 +2,7 @@
 <h3 align="center">Professor FP · Consultor tecnològic · Sempre construint alguna cosa</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Professor+d'ASIX+i+DAW+%40+Institut+Sa+Palomera;Consultor+a+Codeworks+%7C+codeworks.es;25%2B+anys+en+IT+%7C+CTO+%2F+IT+Manager;Big+Data+%26+IA+%7C+Visi%C3%B3+per+computador+%7C+IoT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Professor+d'ASIX+i+DAW+%40+Institut+Sa+Palomera;Big+Data+%26+IA+%7C+Visi%C3%B3+per+computador+%7C+IoT" alt="Typing SVG" />
 </p>
 
 <p align="center">
