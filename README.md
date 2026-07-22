@@ -1,4 +1,4 @@
-<h1 align="center">Hola, sóc en Francesc 👋</h1>
+<h1 align="center">Hola, sóc en Francesc Barragán 👋</h1>
 <h3 align="center">Professor FP · Consultor tecnològic · Sempre construint alguna cosa</h3>
 
 <p align="center">
