@@ -14,11 +14,10 @@
 
 ### 🇨🇦 Sobre mi
 
-Sóc professor de **Cicles Formatius de Grau Superior** (ASIX i DAW) a l'**Institut Sa Palomera** (Blanes, Girona), on també imparteixo cursos d'especialització en **Big Data & IA** i **Desenvolupament de Videojocs**. Paral·lelament, treballo com a **consultor tecnològic autònom** a través de **Codeworks**, amb més de **25 anys d'experiència en IT** (incloent-hi rols de CTO i IT Manager). Tinc certificacions en **ISO 27001, VMware, SAP i tecnologies Microsoft**.
-
+Sóc professor de **Cicles Formatius de Grau Superior** (ASIX i DAW) a l'**Institut Sa Palomera** (Blanes, Girona), on també imparteixo cursos d'especialització en **Big Data & IA**. 
 ### 🇬🇧 About me
 
-I teach **Higher-Level Vocational Training** (ASIX & DAW) at **Institut Sa Palomera** (Blanes, Girona, Spain), along with specialization courses in **Big Data & AI** and **Video Game Development**. I also work as a **self-employed technology consultant** through **Codeworks**, with **25+ years of IT experience**, including past roles as CTO and IT Manager. Certified in **ISO 27001, VMware, SAP, and Microsoft technologies**.
+I teach **Higher-Level Vocational Training** (ASIX & DAW) at **Institut Sa Palomera** (Blanes, Girona, Spain), along with specialization courses in **Big Data & AI**.
 
 ---
 
@@ -26,10 +25,8 @@ I teach **Higher-Level Vocational Training** (ASIX & DAW) at **Institut Sa Palom
 
 | Projecte | Descripció | Stack |
 |---|---|---|
-| **🤖 Blai** | Chatbot d'IA en col·laboració amb l'Ajuntament de Blanes | — |
 | **🏃 Marathon Bib Detection** | Sistema de visió per computador per detectar dorsals de corredors amb càmeres Luxonis OAK | `DepthAI v3` `YOLOv8` `EasyOCR` `SORT` `Streamlit` |
 | **🎓 Sa Palomera SQL Playground** | App full-stack per practicar SQL, amb gamificació i rànquings, per a estudiants d'ASIX/DAW | `Node.js` `React` `PostgreSQL` `Docker` |
-| **🎲 Empòrium / La Tomba Perduda** | Joc de taula accessible per a persones amb discapacitat visual, basat en Arduino | `Arduino` `LCD` `DFPlayer Mini` `Impressió 3D` |
 
 ---
 
